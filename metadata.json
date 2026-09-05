@@ -1,0 +1,6 @@
+{
+  "name": "learnpath ai",
+  "description": "Digital student success platform providing AI career guidance, personalized skill roadmaps, industry-aligned courses, intelligent mentorship, and performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
